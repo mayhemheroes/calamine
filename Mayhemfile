@@ -1,0 +1,6 @@
+image: tngo04/calamine:latest
+project: tngo04/calamine
+target: fuzz_all
+
+cmds:
+  - cmd: /fuzz_all
